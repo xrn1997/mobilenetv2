@@ -1,0 +1,1 @@
+mobilenetV2网络，mindspore框架，数据集RP2K（本代码不含数据集），代码源于mindspore官网。
